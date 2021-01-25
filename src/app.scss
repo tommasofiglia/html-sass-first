@@ -1,0 +1,15 @@
+$colore_titolo: #ff390e;
+$colore_sottotitolo: #784200;
+$colore_paragrafo: #360066;
+
+h2{
+  color: $colore_titolo;
+};
+
+h3{
+  color: $colore_sottotitolo;
+};
+
+p{
+  color: $colore_paragrafo;
+}
